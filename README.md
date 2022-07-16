@@ -1,5 +1,5 @@
 ### Fala Dev! Eu sou o Torres! 👦🏽
-<hr><img align="right" width="150" src="<iframe src="https://giphy.com/embed/PvvSfSDFoAL5e" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/PvvSfSDFoAL5e">via GIPHY</a></p>"/>
+<hr>
 <div style="display: inline_block"><br>
 💻 - Analista em Desenvolvimento de Sistemas <br>
 { <br>
