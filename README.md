@@ -1,11 +1,10 @@
 ### Fala Dev! Eu sou o Torres! 👦🏽
 <hr>
 <div style="display: inline_block"><br>
-💻 - Analista em Desenvolvimento de Sistemas <br>
-{ <br>
-   Depois eu volto e atualizo <br>
-}
-</div>
+📚 - Estudante <br>
+💻 - Análise e Desenvolvimento de Sistemas <br>
+🖱 - Linguagem C# | .NET
+🗄 - Análise´e Banco de Dados
 
 <div style="display: inline_block"><br>
   <a href="https://www.linkedin.com/in/torres-neto-36b68023a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -17,7 +16,7 @@
 <hr>
 <div align="center">
  <a href="https://github.com/Torres-Neto">
- <img height="180em" width="55%" src="https://github-readme-stats.vercel.app/api?username=Torres-Neto&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Torres-Neto&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Torres-Neto&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
