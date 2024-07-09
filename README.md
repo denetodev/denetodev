@@ -1,8 +1,5 @@
-### Eai?! Eu sou o **Neto**!
-<br>
-
-**"Impulsionado pela Curiosidade e Resultados"**
-<br>
+### Eai?! Eu sou o <strong>Neto</strong>!
+<strong>"Impulsionado pela Curiosidade e Resultados"</strong>
 <br>
 Formado em Análise e Desenvolvimento de Sistemas, combino conhecimento técnico e criatividade para desenvolver sistemas web usando Angular e Spring Boot. Minha carreira abrange desde arquitetura e design até soluções digitais, sempre buscando aliar estética e funcionalidade para entregar resultados que superam as expectativas.
 
@@ -12,18 +9,19 @@ Formado em Análise e Desenvolvimento de Sistemas, combino conhecimento técnico
   </a>
 </p>
 
-<br>
 
 <div>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/deusdeteneto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/torresneto.tn/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.behance.net/torresneto" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
-  <a href="https://www.youtube.com/channel/UC3SkcQBopQkGdnYiO3KlCZg/featured" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://wa.me/5561986170964" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/deusdeteneto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/torresneto.tn/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="mailto:torresneto.tn@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.behance.net/torresneto" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"></a>
 </div>
 
+
+
 <details>
-  <summary> Estatísticas do ⚡ Github</summary>
+  <summary> <em>Estatísticas do ⚡ Github </em></summary>
   <div>
     <div>
       <a href="https://www.linkedin.com/in/deusdeteneto">
