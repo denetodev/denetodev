@@ -26,6 +26,8 @@ Formado em Análise e Desenvolvimento de Sistemas, combino conhecimento técnico
       <a href="https://www.linkedin.com/in/deusdeteneto">
         <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=deusdeteneto&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
       </a>
+      </div>
+   <div>
       <a href="https://www.linkedin.com/in/deusdeteneto">
         <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deusdeteneto&layout=compact&theme=github_dark"/>
       </a>
