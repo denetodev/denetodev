@@ -20,8 +20,8 @@ Formado em Análise e Desenvolvimento de Sistemas, combino conhecimento técnico
 <details>
   <summary> <em>Estatísticas do ⚡ Github </em></summary>
     <div>
-        <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=deusdeteneto&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-        <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deusdeteneto&layout=compact&theme=github_dark&include_all_commits=true&count_private=true"/>
+        <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=deusdeteneto&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+        <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deusdeteneto&layout=compact&theme=github_dark&include_all_commits=true&count_private=true"/>
     </div>
 </details>
 
