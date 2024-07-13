@@ -19,10 +19,10 @@ Formado em Análise e Desenvolvimento de Sistemas, combino conhecimento técnico
 
 <details>
   <summary> <em>Estatísticas do ⚡ Github </em></summary>
-    <div>
-        <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=deusdeteneto&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-        <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deusdeteneto&layout=compact&theme=github_dark&include_all_commits=true&count_private=true"/>
-    </div>
+    <a href="https://github.com/deusdeteneto/github-readme-stats">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=deusdeteneto&hide=contribs,stars&theme=react&show_icons=true&hide_border=true&locale=pt-br&include_all_commits=true&count_private=true" />
+    </a>
+    <a href="https://github.com/deusdeteneto/convoychat">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deusdeteneto&theme=react&show_icons=true&hide_border=true&layout=compact&locale=pt-br&include_all_commits=true&count_private=true" style="height: 150px;" />
+    </a>
 </details>
-
-
