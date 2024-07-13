@@ -18,7 +18,7 @@ Formado em Análise e Desenvolvimento de Sistemas, combino conhecimento técnico
 </div>
 
 <details>
-  <summary> <em>Estatísticas do ⚡ Github </em></summary>
+  <summary> <em>Estatísticas do Github ⚡ (Clique para ver mais)</em></summary>
     <a href="https://github.com/deusdeteneto/github-readme-stats">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=deusdeteneto&hide=contribs,stars&theme=react&show_icons=true&hide_border=true&locale=pt-br&include_all_commits=true&count_private=true" style="width: 355px;"/>
     </a>
