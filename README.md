@@ -1,4 +1,5 @@
-### Eai?! Eu sou o <strong>Neto</strong>!
+### Eai! Tudo bem? Eu sou o <strong>Neto</strong>!
+
 <strong>"Impulsionado pela Curiosidade e Resultados"</strong>
 <br>
 Formado em Análise e Desenvolvimento de Sistemas, combino conhecimento técnico e criatividade para desenvolver sistemas web usando Angular e Spring Boot. Minha carreira abrange desde arquitetura e design até soluções digitais, sempre buscando aliar estética e funcionalidade para entregar resultados que superam as expectativas.
