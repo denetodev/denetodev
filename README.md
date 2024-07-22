@@ -17,13 +17,3 @@ Formado em Análise e Desenvolvimento de Sistemas, combino conhecimento técnico
   <a href="mailto:torresneto.tn@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.behance.net/torresneto" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"></a>
 </div>
-
-<details>
-  <summary> <em>Estatísticas do Github ⚡ (Clique para ver mais)</em></summary>
-    <a href="https://github.com/deusdeteneto">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=deusdeteneto&hide=contribs,stars&theme=react&show_icons=true&hide_border=true&locale=pt-br&include_all_commits=true&count_private=true" />
-    </a>
-    <a href="https://github.com/deusdeteneto">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deusdeteneto&theme=react&show_icons=true&hide_border=true&layout=compact&locale=pt-br&include_all_commits=true&count_private=true" />
-    </a>
-</details>
