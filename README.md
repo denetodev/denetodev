@@ -1,41 +1,28 @@
-<div align="center">
-  <!-- Banner ou Logo aqui (opcional) -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:06B6D4&height=120&section=header"/>
+<div align="center">  
+  <!-- Título com animação de texto -->
+  <a href="https://git.io/typing-svg">  
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Olá!+Eu+sou+o+Neto+👋;Full+Stack+Developer+⚡;Desenvolvedor+Web+e+Mobile+💻" alt="Typing SVG" />  
+  </a>  
+  <p>  
+    <em>Transformando ideias em código • Construindo o futuro digital</em>  
+  </p>  
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Olá!+Eu+sou+o+Neto+👋;Full+Stack+Developer+⚡;Sou+Web+Desingner+💻;Desenvolvedor+Mobile+📱" alt="Typing SVG" />
-  </a>
-
-  <p>
-    <em>
-      Transformando Ideias em Código • Construindo o Futuro Digital<br>
-      Apaixonado por Desenvolvimento Web e Mobile
-    </em>
-  </p>
-
-  <!-- Contador de Visualizações -->
-  <img src="https://komarev.com/ghpvc/?username=denetocode&style=flat-square&color=blue" alt=""/>
-</div>
+  <!-- Contador de Visualizações -->  
+  <img src="https://komarev.com/ghpvc/?username=denetocode&style=flat-square&color=blue" alt="contador de visualizações"/>  
+</div>  
 
 ---
 
-### 🚀 Sobre Mim
+### 🛠️ Tecnologias e Ferramentas  
+<p align="center">  
+  <a href="https://skillicons.dev">  
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,typescript,java,python,angular,spring,postman,figma" alt="skills"/>  
+  </a>  
+</p>  
 
-```typescript
-const deneto = {
-    code: ["TypeScript", "Java", "HTML", "CSS", "JavaScript"],
-    technologies: {
-        frontEnd: {
-            js: ["Angular", "jQuery"],
-            css: ["Bootstrap", "TailwindCSS"]
-        },
-        backEnd: {
-            java: ["Spring Boot"],
-            databases: ["PostgreSQL", "MySQL"],
-        },
-        mobile: ["FlutterFlow", "Bubble.io"],
-        cloud: ["Firebase", "Supabase"],
-    },
-    currentFocus: "Desenvolvimento Full Stack com Angular e Spring Boot",
-    funFact: "Bugs são apenas features não documentadas 🐛"
-};
+---
+
+### Sobre Mim  
+- 🌟 **Apaixonado por Desenvolvimento Web e Mobile**  
+- 📚 **Atualmente focado em Angular e Spring Boot**  
+- 🚀 **Sempre buscando aprender e construir novas soluções**  
