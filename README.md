@@ -1,28 +1,30 @@
-<div align="center">  
-  <!-- Título com animação de texto -->
-  <a href="https://git.io/typing-svg">  
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Olá!+Eu+sou+o+Neto+👋;Full+Stack+Developer+⚡;Desenvolvedor+Web+e+Mobile+💻" alt="Typing SVG" />  
-  </a>  
-  <p>  
-    <em>Transformando ideias em código • Construindo o futuro digital</em>  
-  </p>  
+### Eai! Tudo bem? Eu sou o <strong>Neto</strong>!
 
-  <!-- Contador de Visualizações -->  
-  <img src="https://komarev.com/ghpvc/?username=denetocode&style=flat-square&color=blue" alt="contador de visualizações"/>  
-</div>  
+<strong>"Impulsionado pela Curiosidade e Resultados"</strong>
+<br>
+Formado em Análise e Desenvolvimento de Sistemas, combino conhecimento técnico e criatividade para desenvolver sistemas web usando Angular e Spring Boot. Minha carreira abrange desde arquitetura e design até soluções digitais, sempre buscando aliar estética e funcionalidade para entregar resultados que superam as expectativas.
 
 ---
+<div align="center">  
 
 ### 🛠️ Tecnologias e Ferramentas  
-<p align="center">  
-  <a href="https://skillicons.dev">  
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,typescript,java,python,angular,spring,postman,figma" alt="skills"/>  
-  </a>  
-</p>  
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=wordpress,html,css,bootstrap,tailwind,js,typescript,java,angular,spring,postman,figma,photoshop" />
+  </a>
+</p>
 
----
 
-### Sobre Mim  
-- 🌟 **Apaixonado por Desenvolvimento Web e Mobile**  
-- 📚 **Atualmente focado em Angular e Spring Boot**  
-- 🚀 **Sempre buscando aprender e construir novas soluções**  
+<div>
+  <a href="https://wa.me/5561986170964" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/deneto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/denetodev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="mailto:deneto.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.behance.net/deneto" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"></a>
+</div>
+</div>  
+<br
+
+<div>
+  <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denetodev&langs_count=10&theme=github_dark&layout=compact" alt="denetodev :: Gosto de Programar em:" /></p>
+</div>
