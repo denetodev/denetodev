@@ -21,7 +21,7 @@ Formado em Análise e Desenvolvimento de Sistemas, combino conhecimento técnico
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="185" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=denetodev&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&locale=pt-br" 
   />
@@ -29,7 +29,7 @@ Formado em Análise e Desenvolvimento de Sistemas, combino conhecimento técnico
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="185" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=denetodev&theme=github_dark_dimmed&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
