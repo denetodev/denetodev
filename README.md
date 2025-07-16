@@ -13,7 +13,7 @@ Formado em Análise e Desenvolvimento de Sistemas, combino conhecimento técnico
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=wordpress,html,css,bootstrap,tailwind,js,typescript,java,angular,react,spring,firebase,postman,figma,photoshop" />
+    <img src="https://skillicons.dev/icons?i=wordpress,html,css,bootstrap,tailwind,js,typescript,java,angular,spring,firebase,postman,figma" />
   </a>
 </p>
 
